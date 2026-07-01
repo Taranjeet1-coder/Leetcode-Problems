@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
@@ -57,4 +58,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
