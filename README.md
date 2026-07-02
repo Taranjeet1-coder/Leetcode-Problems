@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0912-sort-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,14 +62,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -77,4 +81,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0409-longest-palindrome) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
