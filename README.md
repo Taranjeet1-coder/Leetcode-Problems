@@ -101,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
