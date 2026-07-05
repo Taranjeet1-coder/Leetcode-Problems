@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0069-sqrtx) |
