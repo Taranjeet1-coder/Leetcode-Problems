@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2843-count-symmetric-integers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
