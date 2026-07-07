@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0054-spiral-matrix) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 ## String
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 ## Merge Sort
 |  |
