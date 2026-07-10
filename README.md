@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0367-valid-perfect-square](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [2843-count-symmetric-integers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Enumeration
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
