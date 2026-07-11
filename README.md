@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 ## String
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0089-gray-code) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
