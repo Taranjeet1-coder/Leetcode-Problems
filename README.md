@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0089-gray-code) |
+| [0279-perfect-squares](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [2843-count-symmetric-integers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0279-perfect-squares](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0279-perfect-squares) |
 ## Stack
 |  |
 | ------- |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0061-rotate-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
