@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
