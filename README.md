@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0409-longest-palindrome](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
