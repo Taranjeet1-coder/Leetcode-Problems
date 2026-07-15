@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0739-daily-temperatures](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -167,10 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 ## Backtracking
 |  |
 | ------- |
