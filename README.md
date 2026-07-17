@@ -197,4 +197,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
