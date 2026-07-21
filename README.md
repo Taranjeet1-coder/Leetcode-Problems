@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
+| [3693-climbing-stairs-ii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [3693-climbing-stairs-ii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
 | ------- |
