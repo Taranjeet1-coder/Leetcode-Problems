@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2843-count-symmetric-integers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
