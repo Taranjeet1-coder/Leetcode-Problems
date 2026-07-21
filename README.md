@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0409-longest-palindrome) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0089-gray-code) |
+| [0202-happy-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0509-fibonacci-number) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## String
