@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0043-multiply-strings) |
+| [0205-isomorphic-strings](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
