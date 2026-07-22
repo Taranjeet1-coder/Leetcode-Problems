@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2843-count-symmetric-integers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
