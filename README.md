@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2670-find-the-distinct-difference-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2670-find-the-distinct-difference-array) |
 | [3693-climbing-stairs-ii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2670-find-the-distinct-difference-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2670-find-the-distinct-difference-array) |
 ## Matrix
 |  |
 | ------- |
