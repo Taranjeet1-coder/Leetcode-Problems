@@ -11,18 +11,41 @@
  */
 class Solution {
 public:
-    int maxsum=INT_MIN;
-    int dfs(TreeNode* root){
-        if(root== NULL){
+    int findMax(TreeNode * node , int & maxSum) {
+        if (node == NULL) {
             return 0;
         }
-        int left= max(0, dfs(root->left));
-        int right= max(0, dfs(root->right));
-        maxsum= max(maxsum, left+ right+ root->val);
-        return root->val + max(left,right);
+        int left = findMax(node -> left , maxSum);
+        int right = findMax(node -> right , maxSum);
+        left = max(left , 0);
+        right = max(right , 0);
+        maxSum = max(maxSum , node -> val + left + right);
+        return node -> val + max(left , right);
     }
     int maxPathSum(TreeNode* root) {
-        dfs(root);
-        return maxsum;
+        if (root == NULL) {
+            return 0;
+        }
+        int maxSum = INT_MIN;
+        findMax(root , maxSum);
+        return maxSum;
+        
     }
 };
+// class Solution {
+// public:
+//     int maxsum=INT_MIN;
+//     int dfs(TreeNode* root){
+//         if(root== NULL){
+//             return 0;
+//         }
+//         int left= max(0, dfs(root->left));
+//         int right= max(0, dfs(root->right));
+//         maxsum= max(maxsum, left+ right+ root->val);
+//         return root->val + max(left,right);
+//     }
+//     int maxPathSum(TreeNode* root) {
+//         dfs(root);
+//         return maxsum;
+//     }
+// };
