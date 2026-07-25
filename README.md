@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
 | [0912-sort-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1929-concatenation-of-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2326-spiral-matrix-iv](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2326-spiral-matrix-iv) |
 | [2670-find-the-distinct-difference-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2670-find-the-distinct-difference-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0885-spiral-matrix-iii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
+| [1929-concatenation-of-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2326-spiral-matrix-iv](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2326-spiral-matrix-iv) |
 ## Math
 |  |
