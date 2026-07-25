@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
+| [3099-harshad-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/3099-harshad-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
