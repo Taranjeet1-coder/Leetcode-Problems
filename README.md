@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2326-spiral-matrix-iv](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2326-spiral-matrix-iv) |
 | [2670-find-the-distinct-difference-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2670-find-the-distinct-difference-array) |
 | [3693-climbing-stairs-ii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
@@ -53,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [2326-spiral-matrix-iv](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [2326-spiral-matrix-iv](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2326-spiral-matrix-iv) |
 ## Math
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2326-spiral-matrix-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
