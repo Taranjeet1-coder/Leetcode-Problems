@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [0885-spiral-matrix-iii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
 | [0912-sort-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0885-spiral-matrix-iii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
 | [2326-spiral-matrix-iv](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0885-spiral-matrix-iii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
 | [2326-spiral-matrix-iv](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2326-spiral-matrix-iv) |
 ## Math
 |  |
