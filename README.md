@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
 | [3099-harshad-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/3099-harshad-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
 | ------- |
