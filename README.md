@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0279-perfect-squares) |
 | [0617-merge-two-binary-trees](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -326,4 +329,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
