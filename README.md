@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3340-check-balanced-string](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/3340-check-balanced-string) |
 ## Sliding Window
 |  |
 | ------- |
