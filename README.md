@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
+| [2409-count-days-spent-together](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2651-calculate-delayed-arrival-time) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2409-count-days-spent-together](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [3340-check-balanced-string](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/3340-check-balanced-string) |
 ## Sliding Window
 |  |
