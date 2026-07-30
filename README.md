@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0279-perfect-squares) |
 | [0617-merge-two-binary-trees](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Number Theory
 |  |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
