@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2409-count-days-spent-together](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [3340-check-balanced-string](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/3340-check-balanced-string) |
 ## Sliding Window
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Merge Sort
 |  |
 | ------- |
