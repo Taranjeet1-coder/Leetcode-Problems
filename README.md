@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
 | [0912-sort-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1929-concatenation-of-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2326-spiral-matrix-iv](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2326-spiral-matrix-iv) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0709-to-lower-case](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3340-check-balanced-string](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/3340-check-balanced-string) |
 ## Sliding Window
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Merge Sort
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0279-perfect-squares) |
 | [0435-non-overlapping-intervals](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3693-climbing-stairs-ii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
