@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0503-next-greater-element-ii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0279-perfect-squares) |
+| [0416-partition-equal-subset-sum](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
