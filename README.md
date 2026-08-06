@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0743-network-delay-time](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0279-perfect-squares) |
 | [0617-merge-two-binary-trees](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0743-network-delay-time) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Number Theory
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0743-network-delay-time) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -374,4 +377,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
