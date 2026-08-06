@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0503-next-greater-element-ii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
