@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0503-next-greater-element-ii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0885-spiral-matrix-iii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0885-spiral-matrix-iii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0611-valid-triangle-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0611-valid-triangle-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0611-valid-triangle-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Merge Sort
