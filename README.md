@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0390-elimination-game) |
+| [0441-arranging-coins](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Taranjeet1-coder/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
